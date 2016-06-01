@@ -1,0 +1,11 @@
+﻿  TextBox.cpp
+c:\users\netanels\desktop\shitut\shitut\textbox.cpp(23): warning C4018: '<': signed/unsigned mismatch
+  Source.cpp
+  Panel.cpp
+  Label.cpp
+  IControl.cpp
+  ConsoleEventsHandler.cpp
+c:\users\netanels\desktop\shitut\shitut\consoleeventshandler.cpp(55): warning C4018: '<': signed/unsigned mismatch
+  ComoboxInputEntry.cpp
+  Generating Code...
+  Shitut.vcxproj -> C:\Users\netanels\Desktop\Shitut\Debug\Shitut.exe
